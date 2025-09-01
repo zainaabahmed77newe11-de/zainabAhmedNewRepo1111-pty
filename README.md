@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Zainab</h1>
-<h3 align="center">A passionate App Developer from Mosul</h3>
+<h3 align="center">A passionate App Developer from Mosul , graduated 2024 form software engineering department 🏬 </h3>
 
 
 
